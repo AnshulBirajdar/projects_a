@@ -1,8 +1,8 @@
 # projects_a
-====>|A|<====
-|((((Free))) |
-|[[[Soft.]]] |
-====>|B|<====
+====>|A|<====\n
+|((((Free))) |\n
+|[[[Soft.]]] |\n
+====>|B|<====\n
 this project includes 2 projects
 ie.
 1.Tower of Hanoi (Toh-1)
