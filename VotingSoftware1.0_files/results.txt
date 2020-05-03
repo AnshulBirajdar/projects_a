@@ -1,0 +1,12 @@
+VotingSofware 1.0 Results
+Total Votes: 1  
+ Day of election: 1 
+ Type of Candidate: Head Boy
+Name: Sam : 1 vote(s) ,  100.0 % 
+Name: Ravi : 0 vote(s) ,  0.0 % 
+Name: Andy : 0 vote(s) ,  0.0 % 
+Winner is(are): Sam
+ALL Votes done for day 1
+
+
+
